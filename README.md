@@ -4,7 +4,7 @@
 Sweet Blossom Cakes is a single-page e-commerce web application designed to provide users with a simple and interactive way to browse and purchase cakes online.
 The website solves the problem of static or non-interactive shopping pages by offering a dynamic cart system where users can instantly manage items without page reloads, improving user experience and usability.
 
-## ✨ Features
+# ✨ Features
 Responsive single-page design
 View products dynamically from database
 Add items to shopping cart
@@ -13,33 +13,33 @@ Remove items from cart
 Live total price calculation
 Smooth user interaction without page reload
 
-## 🛠️ Technical Stack
+# 🛠️ Technical Stack
 
-# Frontend
+## Frontend
 
 React (SPA rendering)
 Vite (development & build tool)
 JavaScript (ES6)
 CSS (custom styling)
 
-# Backend
+## Backend
 
 Node.js
 Express.js (API routing)
 
-# Database
+## Database
 
 MySQL (data storage)
 
-# Routing
+## Routing
 
 RESTful API endpoints via Express
 
-# Deployment
+## Deployment
 
 Localhost development (can be extended to cloud deployment)
 
-## 📁 Project Structure
+# 📁 Project Structure
 Ecommerce-cart/
 ├── backend/
 │   ├── package.json
