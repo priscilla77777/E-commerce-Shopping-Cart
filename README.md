@@ -55,11 +55,11 @@ Ecommerce-cart/
 ├── database.sql         # Database schema
 └── README.md
 
-## 🚀 How to Run
-# Import Database
+# 🚀 How to Run
+## Import Database
 Run the following in MySQL Workbench or terminal:
 SOURCE database.sql;
-# Backend Setup
+## Backend Setup
 1. Go to the backend folder:
    cd backend
 2. Install dependencies:
@@ -74,11 +74,11 @@ SOURCE database.sql;
 5. Start the backend server:
    node server.js
 
-# Start Frontend
+## Start Frontend
 cd frontend
 npm install
 npm run dev
-# Open Application
+## Open Application
 http://localhost:5173
 
 
