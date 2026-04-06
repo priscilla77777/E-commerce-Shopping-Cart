@@ -1,5 +1,5 @@
 # 🌸 Sweet Blossom Cakes
-## Overview
+# Overview
 
 Sweet Blossom Cakes is a single-page e-commerce web application designed to provide users with a simple and interactive way to browse and purchase cakes online.
 The website solves the problem of static or non-interactive shopping pages by offering a dynamic cart system where users can instantly manage items without page reloads, improving user experience and usability.
